@@ -11,7 +11,7 @@ h1{
     min-height: 100dvh;
 }
 ul > li > a{
-    color: rgb(0, 0, 255);
+    color: rgb(23, 23, 96);
 }
 #homebrew, #git, #github, #vercel{
     min-height: 100dvh;
